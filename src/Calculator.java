@@ -74,7 +74,7 @@ public class Calculator {
                     result = operand1 / operand2;
                 } else {
                     System.out.println("Делить на ноль нельзя!");
-                    System.out.println("Делить на ноль нельзя!");4
+
 
                     result = calc(operand1, nextDouble(), operation);
                 }
